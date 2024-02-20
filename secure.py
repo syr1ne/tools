@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from sys import argv
 from cryptography.fernet import Fernet
 import base64, hashlib
